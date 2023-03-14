@@ -1,4 +1,5 @@
 * { font-size: larger;}
+
 header {
     border-bottom: 1pt dotted #888;
     margin-bottom: 50px;
@@ -13,3 +14,5 @@ header h1 {text-align: center;}
 h2 {
     margin-top: 2em;
 margin-bottom: 1em;}
+
+h4 {font-size: medium;}
