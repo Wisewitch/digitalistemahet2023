@@ -1,4 +1,4 @@
-* { font-size: larger;}
+p { font-size: larger;}
 
 header {
     border-bottom: 1pt dotted #888;
@@ -15,4 +15,19 @@ h2 {
     margin-top: 2em;
 margin-bottom: 1em;}
 
-h4 {font-size: medium;}
+h3 {margin-bottom: 20px;}
+
+h4 {font-size: medium;
+margin-bottom: 10px;}
+
+nav {
+    font-size: 100%;
+}
+
+footer {color: #ccc; 
+    text-align: center;
+margin-top: 50px;}
+
+footer p {color: #ccc; 
+text-align: center;
+padding-left: 30%;}
